@@ -20,3 +20,13 @@ Human Augmentation Short Course -- Part I (June 2013):  [link](https://synthetic
 Human Augmentation Short Course: -- Part II (June 2013):  [link](https://syntheticdaisies.blogspot.com/2013/06/human-augmentation-short-course-part-ii.html)  
 
 Human Augmentation Short Course -- Part III (July 2013):  [link](https://syntheticdaisies.blogspot.com/2013/07/human-augmentation-posts-part-iii.html)
+
+### Work to do
+
+Attentional Models: combination of feature selection, cognitive model, and dynamical regulation.
+
+Cybernetic Models: focus on dynamical regulation and internal models.
+
+Expertise Models: applying domain expertise, labeled data, and unlabeled features to problems in a symbiotic manner.
+
+Biological and Machine Symbiosis: need a knowledge map of "symbiosis", with roots in HCI (Licklider) and Ecology (Kropotkin). 
